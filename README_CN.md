@@ -4,7 +4,7 @@
 ![GitHub License](https://img.shields.io/github/license/hqrrr/weekly-paper-report)&nbsp;
 
 > 🔄 通过 GitHub Actions 每周一自动更新  
-> 🌐 在线示例：https://hqrrr.github.io/weekly-paper-report/
+> 🌐 在线示例：https://zhengwen69.github.io/weekly-paper-report-weifei/
 
 [📘 English README](README.md)
 
