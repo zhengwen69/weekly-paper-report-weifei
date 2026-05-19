@@ -1,13 +1,17 @@
 # ./config/keywords.yaml
 keywords:
-  - indoor environmental quality
-  - IEQ
-  - IEQ monitoring
-  - thermal comfort
-  - indoor air quality
-  - IAQ
-  - user behavior modelling
-  - CO2
-  - CO2 distribution
-  - occupancy detection
-  - sensor
+  - Medical Waste
+  - Incineration
+  - Incinerator
+  - Volume Reduction
+  - Safe Disposal
+  - Waste Treatment
+  - Waste Incineration
+  - Hazardous Waste
+  - Pyrolysis Incineration
+  - High-Temperature Incineration
+  - Plasma Incineration
+  - Rotary Furnace
+  - Fixed Furnace
+  - Vertical Furnace
+  - Horizontal Furnace
