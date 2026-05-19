@@ -5,7 +5,7 @@
 
 > 🔄 Automatically updated every Monday via GitHub Actions
 > 
-> 🌐 Live demo: https://hqrrr.github.io/weekly-paper-report/
+> 🌐 Live demo: https://zhengwen69.github.io/weekly-paper-report/
 
 [📘 中文文档](README_CN.md)
 
