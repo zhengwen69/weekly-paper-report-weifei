@@ -1,3 +1,6 @@
 # followed_authors.yaml
 followed_authors:
-
+  - name: Ping Ning
+    orcid: "0000-0002-3878-2883"
+    names:
+      - Ping Ning
